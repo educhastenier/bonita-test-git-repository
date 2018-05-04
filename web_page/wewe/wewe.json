@@ -1,0 +1,24 @@
+{
+  "designerVersion" : "1.7.35",
+  "id" : "wewe",
+  "name" : "wewe",
+  "lastUpdate" : 1525267099084,
+  "rows" : [ [ ] ],
+  "assets" : [ {
+    "id" : "b9030282-82bf-4e88-a1ea-5b120042593b",
+    "name" : "localization.json",
+    "type" : "json",
+    "order" : 0,
+    "external" : false
+  }, {
+    "id" : "7cac1cc5-e80a-471a-bf60-63a30a3f7b8b",
+    "name" : "style.css",
+    "type" : "css",
+    "order" : 0,
+    "external" : false
+  } ],
+  "inactiveAssets" : [ ],
+  "data" : { },
+  "uuid" : "3df149c9-1399-49ba-93bc-5a66597ba8be",
+  "type" : "page"
+}

@@ -1,0 +1,31 @@
+{
+  "designerVersion" : "1.7.25",
+  "previousDesignerVersion" : "1.4.23",
+  "id" : "adrien",
+  "name" : "adrien",
+  "lastUpdate" : 1525438877821,
+  "rows" : [ [ ] ],
+  "assets" : [ {
+    "id" : "a0aed524-ffe2-4f73-9aae-7060c071de65",
+    "name" : "localization.json",
+    "type" : "json",
+    "order" : 0,
+    "external" : false
+  }, {
+    "id" : "d6c7f701-f197-466e-8821-770f6a956cef",
+    "name" : "style.css",
+    "type" : "css",
+    "order" : 1,
+    "external" : false
+  }, {
+    "id" : "95fde207-0a5b-4a7a-a171-caa9c4efb0fa",
+    "name" : "ui-bootstrap-tpls-0.13.0.min.js",
+    "type" : "js",
+    "order" : 2,
+    "external" : false
+  } ],
+  "inactiveAssets" : [ ],
+  "data" : { },
+  "uuid" : "d79b80f8-ec53-4532-ba8d-046b8f6ac128",
+  "type" : "page"
+}
