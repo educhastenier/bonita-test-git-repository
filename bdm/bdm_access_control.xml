@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <accessControlModel xmlns="http://documentation.bonitasoft.com/bdm-access-control-xml-schema/1.0">
+    <businessObjectRule businessObjectQualifiedName="com.company.model.Page"/>
     <businessObjectRule businessObjectQualifiedName="com.company.model.Book">
         <rule name="myRule" usingDynamicProfiles="false">
             <condition></condition>
@@ -8,9 +9,7 @@
             </staticProfiles>
             <dynamicProfiles></dynamicProfiles>
             <attributes businessObjectQualifiedName="com.company.model.Book">
-                <attribute name="pages">
-                    <attributes businessObjectQualifiedName="com.company.model.Page"/>
-                </attribute>
+                <attribute name="pages"/>
             </attributes>
         </rule>
         <rule name="myRule1" usingDynamicProfiles="false">
@@ -20,11 +19,7 @@
             </staticProfiles>
             <dynamicProfiles></dynamicProfiles>
             <attributes businessObjectQualifiedName="com.company.model.Book">
-                <attribute name="pages">
-                    <attributes businessObjectQualifiedName="com.company.model.Page">
-                        <attribute name="id"/>
-                    </attributes>
-                </attribute>
+                <attribute name="pages"/>
             </attributes>
         </rule>
     </businessObjectRule>
