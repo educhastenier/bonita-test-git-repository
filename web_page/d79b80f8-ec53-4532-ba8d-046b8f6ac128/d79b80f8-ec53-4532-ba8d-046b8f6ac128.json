@@ -1,1 +1,31 @@
-{"designerVersion":"1.4.23","id":"d79b80f8-ec53-4532-ba8d-046b8f6ac128","name":"xcdfg","type":"page","lastUpdate":1481733932080,"rows":[[]],"assets":[{"id":"a0aed524-ffe2-4f73-9aae-7060c071de65","name":"localization.json","type":"json","order":0,"external":false}],"inactiveAssets":[],"data":{}}
+{
+  "designerVersion" : "1.7.25",
+  "previousDesignerVersion" : "1.4.23",
+  "id" : "d79b80f8-ec53-4532-ba8d-046b8f6ac128",
+  "name" : "xcdfg",
+  "lastUpdate" : 1526305795643,
+  "rows" : [ [ ] ],
+  "assets" : [ {
+    "id" : "a0aed524-ffe2-4f73-9aae-7060c071de65",
+    "name" : "localization.json",
+    "type" : "json",
+    "order" : 0,
+    "external" : false
+  }, {
+    "id" : "2e66aa87-a24a-4273-bfd7-ae3ec04573ab",
+    "name" : "style.css",
+    "type" : "css",
+    "order" : 1,
+    "external" : false
+  }, {
+    "id" : "8ebd30e0-3ee9-4ddf-b7f0-1004dbe45155",
+    "name" : "ui-bootstrap-tpls-0.13.0.min.js",
+    "type" : "js",
+    "order" : 2,
+    "external" : false
+  } ],
+  "inactiveAssets" : [ ],
+  "data" : { },
+  "uuid" : "d79b80f8-ec53-4532-ba8d-046b8f6ac128",
+  "type" : "page"
+}
